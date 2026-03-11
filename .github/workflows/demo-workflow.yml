@@ -23,4 +23,3 @@ jobs:
         run: echo $SECRET1 | sed 's/./& /g'
       - name : Echo PASSWORD
         run: echo $SECRET2 | sed 's/./& /g'
-oi
